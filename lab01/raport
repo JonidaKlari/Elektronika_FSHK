@@ -1,1 +1,35 @@
+1. Qëllimi i Eksperimentit
 
+Në këtë eksperiment kam realizuar matjen e dy rezistencave elektrike me vlera të ndryshme, ku e para është \(120\,k\Omega\), ndërsa e dyta \(1.77\,k\Omega\). Pas matjes, i vendosa rezistencat në breadboard dhe realizova lidhjen me furnizuesin laboratorik. Gjatë eksperimentit mata tensionin e furnizimit prej \(11.69\,V\) dhe rrymën prej \(2.263\,A\). Gjithashtu provova lidhjen e rezistencave në seri dhe paralel, për të vëzhguar ndryshimet në funksionimin e qarkut dhe sjelljen e tyre gjatë matjeve praktike.
+
+2. Baza Teorike
+
+2.1 Modeli i Qarkut
+
+Për realizimin e këtij eksperimenti përdora këto elemente:
+- Rezistenca e parë: \(R_1 = 120\,k\Omega\)
+- Rezistenca e dytë: \(R_2 = 1.77\,k\Omega\)
+- Tensioni i furnizimit: \(V_{in} = 11.69\,V\)
+- Pajisjet matëse: Multimetri dixhital dhe breadboard-i.
+2.2 Ekuacionet Themelore
+
+Për të kuptuar lidhjen ndërmjet tensionit, rrymës dhe rezistencës, u bazova në ligjin e Ohm-it, i cili shprehet me formulën:
+\[
+I = \frac{V}{R}
+\]
+
+Kjo formulë tregon se intensiteti i rrymës varet nga tensioni i aplikuar dhe rezistenca e qarkut.
+
+3. Ndërtimi Eksperimental
+
+3.1 Pajisjet e Përdorura
+Pajisja	Përshkrimi
+Multimetër dixhital	Përdoret për matjen e tensionit, rrymës dhe rezistencës.
+Furnizues laboratorik	Shërben për të furnizuar qarkun me energji elektrike DC.
+Breadboard	Përdoret për vendosjen dhe lidhjen e komponentëve elektronikë.
+Rezistenca	Përdoren për të analizuar sjelljen e qarkut elektrik.
+Tela lidhës	Shërbejnë për realizimin e lidhjeve ndërmjet komponentëve.
+
+3.2 Procedura Eksperimentale
+
+Fillimisht realizova matjen e vlerave të rezistencave duke përdorur multimetrin. Më pas i vendosa ato në breadboard dhe bëra lidhjet përkatëse me furnizuesin laboratorik. Pasi vendosa tensionin e furnizimit, kryeva matjet e nevojshme për të vëzhguar vlerat elektrike të qarkut. Në fund realizova konfigurimet në seri dhe paralel, duke krahasuar mënyrën se si ndryshojnë karakteristikat elektrike në secilin rast.
